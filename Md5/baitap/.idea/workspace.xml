@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7757fa2f-e705-4c0c-85e1-2424a271f5ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/.idea/check-prime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typeacript-control-flow-and-loop/.idea/typeacript-control-flow-and-loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typeacript-control-flow-and-loop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typeacript-control-flow-and-loop/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/.idea/typescript-promise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/dist/main.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/dist/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/.idea/typescript-valiable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/.idea/typescrpit-shape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/src/Iarea.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/src/rectangle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/src/shape.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai1/bai1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/Add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/Show.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3/Add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3/Show.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3/call api/Add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3/call api/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai3/call api/Show.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hacker-rank/hacker-rank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Md1/Baitap/Bai-tap" beforeDir="false" afterPath="$PROJECT_DIR$/../../Md1/Baitap/Bai-tap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Md2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Md2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Md4" beforeDir="false" afterPath="$PROJECT_DIR$/../../Md4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TnTqxakBOEhwaJtGziXqhF0oVW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/trung/Codegym/Md5/baitap/src/bai3/call api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\trung\Codegym\Md5\baitap\src\bai3\call api" />
+      <recent name="C:\Users\trung\Codegym\Md5\baitap\src\bai3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7757fa2f-e705-4c0c-85e1-2424a271f5ee" name="Changes" comment="" />
+      <created>1691678039791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691678039791</updated>
+      <workItem from="1691678041615" duration="65000" />
+      <workItem from="1691832992660" duration="3346000" />
+      <workItem from="1691906616566" duration="9603000" />
+      <workItem from="1691932763728" duration="8023000" />
+      <workItem from="1691976762395" duration="2137000" />
+      <workItem from="1691983898688" duration="4113000" />
+      <workItem from="1691988295636" duration="8379000" />
+      <workItem from="1691997877249" duration="176000" />
+      <workItem from="1691999627943" duration="1258000" />
+      <workItem from="1692014545757" duration="8796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
