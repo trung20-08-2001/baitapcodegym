@@ -3,8 +3,9 @@ import {useEffect, useState} from "react";
 function Add(props) {
     const [employee,setEmployee]=useState({name:"",age:'',salary:''})
     const [listDepartment,setListDepartment]=useState([])
+
+
     const addEmployee=()=>{
-        console.log(employee)
         axios.post('http://localhost:8080/save',employee)
             .then(function (response) {
                 if(props.isEdit){

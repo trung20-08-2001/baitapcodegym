@@ -5,55 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7757fa2f-e705-4c0c-85e1-2424a271f5ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/.idea/check-prime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/check-prime/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typeacript-control-flow-and-loop/.idea/typeacript-control-flow-and-loop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typeacript-control-flow-and-loop/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typeacript-control-flow-and-loop/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/.idea/typescript-promise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/dist/main.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/dist/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/dist/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-promise/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/.idea/typescript-valiable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescript-valiable/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/.idea/typescrpit-shape.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/src/Iarea.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/src/rectangle.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/src/shape.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bai1/typescrpit-shape/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai1/bai1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai2/Add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai2/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai2/Show.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai3/Add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai3/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai3/Show.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai3/call api/Add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai3/call api/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai3/call api/Show.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hacker-rank/hacker-rank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/Book.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/BookLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/NewBook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/PageAdmin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai4/PageUser.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Md1/Baitap/Bai-tap" beforeDir="false" afterPath="$PROJECT_DIR$/../../Md1/Baitap/Bai-tap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Md2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Md2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Md4" beforeDir="false" afterPath="$PROJECT_DIR$/../../Md4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai3/call api/Add.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai3/call api/Add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai3/call api/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai3/call api/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,20 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/trung/Codegym/Md5/baitap/src/bai3/call api",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/trung/Codegym/Md5/baitap/src/bai3/call api&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\trung\Codegym\Md5\baitap\src\bai3\call api" />
@@ -133,6 +100,15 @@
       <workItem from="1691997877249" duration="176000" />
       <workItem from="1691999627943" duration="1258000" />
       <workItem from="1692014545757" duration="8796000" />
+      <workItem from="1692030578505" duration="761000" />
+      <workItem from="1692033893303" duration="352000" />
+      <workItem from="1692037155520" duration="1520000" />
+      <workItem from="1692060464231" duration="1607000" />
+      <workItem from="1692065470655" duration="800000" />
+      <workItem from="1692068992424" duration="12979000" />
+      <workItem from="1692092503647" duration="1084000" />
+      <workItem from="1692095033116" duration="174000" />
+      <workItem from="1692103690348" duration="9360000" />
     </task>
     <servers />
   </component>

@@ -7,6 +7,7 @@ function Home() {
     const [showAdd, setShowAdd] = useState(false)
     const [employee,setEmployee]=useState({name:"",age:'',salary:'',department:{id:1}})
     const [isEdit,setIsEdit]=useState(false)
+
     let handleAddEmployee = () => {
         setShowList(false)
         setShowAdd(true)
@@ -31,8 +32,7 @@ function Home() {
                 console.log(error)
             })
     }
-
-
+    
     return (
         <>
             <h1 className='text-center text-success'>Quản lí nhân viên</h1>
