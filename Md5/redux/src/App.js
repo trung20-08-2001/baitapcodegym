@@ -1,11 +1,10 @@
 import store from "./redux/store";
 import {useEffect, useState} from "react";
 import {addStudentAction, deleteStudentAction, editStudentAction} from "./redux/action";
-import {calculateNewValue} from "@testing-library/user-event/dist/utils";
 
 
 function App() {
-    const [student,setStudent]=useState({});
+    const [student,setStudent]=useState({id:0,name:"",age:0});
     const [data,setData] = useState([]);
     const [showButtonAdd,setShowButtonAdd]=useState(true)
     const [showButtonEdit,setShowButtonEdit]=useState(false)
@@ -15,13 +14,14 @@ function App() {
     useEffect(() => {
         setData(store.getState)
     }, []);
+
     const deleteStudent=(id)=>{
         store.dispatch(deleteStudentAction(id))
     }
 
     const addStudent=()=>{
-        store.dispatch(addStudentAction(student))
-        setStudent({})
+        store.dispatch(addStudentAction({...student,id:data[data.length-1].id+1}))
+        setStudent({id:0,name:"",age:0})
     }
 
     const getInfo=(item)=>{
@@ -38,7 +38,8 @@ function App() {
     const editStudent=()=>{
         store.dispatch(editStudentAction(student))
         setShowButtonAdd(true);
-        setShowButtonEdit(false)
+        setShowButtonEdit(false);
+        setStudent({id:0,name:"",age:0})
     }
 
     return (
@@ -46,7 +47,7 @@ function App() {
             <label>Name</label>
             <input type={"text"} value={student.name} name={"name"} onChange={(event)=>handleChangeInput(event)} />
             <label>Age</label>
-            <input type={"text"} value={student.age} name={"age"} onChange={(event)=>handleChangeInput(event)} />
+            <input type={"number"} value={student.age} name={"age"} onChange={(event)=>handleChangeInput(event)} />
             {showButtonAdd && <button onClick={addStudent}>Save</button>}
             {showButtonEdit && <button onClick={editStudent} >Edit</button>}
             <h1>List </h1>
