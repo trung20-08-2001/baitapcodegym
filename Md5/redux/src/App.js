@@ -1,15 +1,24 @@
-import React, { useEffect } from 'react';
-import {Route, Routes} from "react-router";
-import Home from "./components/Home";
-import Create from "./components/Create";
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Provider } from 'react-redux';
+import store from './store/StoreSlice';
+import Home from './Pages/Home';
+import Cart from './Pages/Cart';
+import Navbar from './Components/Navbar';
 
-const App = () => {
+function App() {
     return (
-        <Routes>
-            <Route path="" element={<Home/>}/>
-            <Route path="create" element={<Create/>}/>
-        </Routes>
+        <div className="App">
+            <Provider store={store}>
+                <BrowserRouter>
+                    <Navbar />
+                    <Routes>
+                        <Route path="/" element={<Home />}></Route>
+                        <Route path="/cart" element={<Cart />}></Route>
+                    </Routes>
+                </BrowserRouter>
+            </Provider>
+        </div>
     );
-};
+}
 
 export default App;
