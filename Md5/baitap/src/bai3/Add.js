@@ -67,7 +67,6 @@ function Add(props) {
                     <label htmlFor="email">Price:</label>
                     <input type="number" min="0" className="form-control" id="price" placeholder="Enter price" value={price}
                            name="price" onChange={(event) => handleChangePrice(event)}/>
-
                 </div>
                 <button className="btn btn-primary" onClick={() =>addProduct(props)}>Save</button>
                 &nbsp;&nbsp;&nbsp;

@@ -5,22 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7757fa2f-e705-4c0c-85e1-2424a271f5ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bai4/Book.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai4/BookLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai4/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai4/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai4/NewBook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai4/NotFound.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai4/PageAdmin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai4/PageUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/Detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/Resgister.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai5/UserAdmin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Md1/Baitap/Bai-tap" beforeDir="false" afterPath="$PROJECT_DIR$/../../Md1/Baitap/Bai-tap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai3/call api/Add.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai3/call api/Add.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bai3/call api/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai3/call api/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bai3/Add.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/bai3/Add.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/trung/Codegym/Md5/baitap/src/bai3/call api&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/trung/CodeGym/Md5/baitap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\trung\Codegym\Md5\baitap\src\bai3\call api" />
@@ -109,6 +107,13 @@
       <workItem from="1692092503647" duration="1084000" />
       <workItem from="1692095033116" duration="174000" />
       <workItem from="1692103690348" duration="9360000" />
+      <workItem from="1692155070193" duration="5409000" />
+      <workItem from="1692167039226" duration="1323000" />
+      <workItem from="1692170414272" duration="79000" />
+      <workItem from="1692170613751" duration="1064000" />
+      <workItem from="1692181267024" duration="19000" />
+      <workItem from="1692352724563" duration="1205000" />
+      <workItem from="1692544344151" duration="168000" />
     </task>
     <servers />
   </component>
