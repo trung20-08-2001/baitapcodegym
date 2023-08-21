@@ -12,14 +12,13 @@ const Navbar = () => {
                 justifyContent: 'space-between',
             }}
         >
-            <span className="logo">REDUX STORE</span>
             <div>
                 <Link className="navLink" to="/">
                     Home
-                </Link>
+                </Link> &nbsp; &nbsp;  &nbsp; &nbsp;
                 <Link className="navLink" to="/cart">
                     Cart
-                </Link>
+                </Link>  &nbsp;  &nbsp;  &nbsp;  &nbsp;
                 <span className="cartCount">Cart items: {items.length}</span>
             </div>
         </div>
